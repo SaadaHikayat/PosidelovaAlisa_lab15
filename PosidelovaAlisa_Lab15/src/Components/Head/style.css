@@ -1,0 +1,19 @@
+.Head{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(150, 100, 300);
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    margin: 20px;
+}
+.active{
+    background-color: rgb(100, 0, 250);
+    color:white;
+    padding: 6px;
+}
